@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/background.png");
+}
+
+.jumbomargin {
+    margin-top: 2rem;
+}
+
+.footer {
+    margin-top: 2rem;
+    margin-bottom: 0;
+    padding: 0;
+}
